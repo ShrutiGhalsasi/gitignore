@@ -1,3 +1,9 @@
+#Ignore single file
 New-file.txt
 
+#Ignore all files in bin directory
 bin/
+
+#Ignore all .tmp files
+
+*.tmp
